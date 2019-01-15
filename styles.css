@@ -50,8 +50,8 @@ body {
 .simon {
     background: none; 
     position: relative;
-    width: 96%;
-    height: 96%;
+    width: 360px;
+    height: 360px;
     margin: auto;
     overflow: hidden;
 }
