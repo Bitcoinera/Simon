@@ -77,6 +77,10 @@ body {
     font-size:200%;  
 }
 
+a#level {
+   height: fit-content;
+}
+
 #center label{
     display: block;
     width: 100%;
