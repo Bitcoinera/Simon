@@ -22,6 +22,7 @@ body {
     overflow: auto;
     float:left;
     margin: 10px;
+    overflow: hidden;
   }
   
 .circle{
